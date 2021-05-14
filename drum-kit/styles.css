@@ -12,7 +12,7 @@ html {
   font-family: sans-serif;
 }
 
-.key-set {
+.keys {
   display: flex;
   flex: 1;
   min-height: 100vh;
